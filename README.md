@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there 👋, I'm Rohan  
 
-<!--
-**Rohan-Mohite14/Rohan-Mohite14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer | 🚀 AI & Full-Stack Enthusiast | 🌐 Open Source Contributor  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Frontend:** React, React Native, Flutter, Tailwind, ShadCN
+- **Backend:** FastAPI, Flask, Node.js
+- **Database:** MongoDB, PostgreSQL
+- **DevOps:** Docker, Docker Compose, Render, Vercel, Ngrok
+- **AI/ML:** LangChain, LangGraph, DeepSeek, CVE/CWE vulnerability mapping
+- **Other:** Git, REST APIs, OpenAI API, Agentic AI design
+
+---
+
+## 📌 Projects
+- 🎬 **Movie Recommendation App**  
+  React + FastAPI + MongoDB app with search, wishlist, and star-rating system.  
+
+- 🗺️ **Smart Tourist Safety App**  
+  Flutter + Maps + Geo-fencing for safe travel, itinerary planner, and voice input.  
+
+- 🛠️ **Dockerized Logging Demo**  
+  NGINX + Logging service with Docker Compose.  
+
+- 🤖 **Agentic AI Security Scanner**  
+  Code vulnerability detection + mapping to CVEs & CWEs using LLM tool-calling.  
+
+---
+
+## 📈 Current Focus
+- Building **agentic automation bots** with LangGraph + DeepSeek  
+- Strengthening **DSA in C++** with common patterns & templates  
+- Exploring **cloud deployment** with Render & Vercel  
+
+---
+
+## 📬 Connect With Me
+- 🌐 [GitHub](https://github.com/yourusername)  
+- 💼 [LinkedIn](https://linkedin.com/in/yourusername)  
+- ✉️ rohan@example.com  
+
+---
+⭐️ _Feel free to explore my repos and reach out for collaborations!_
