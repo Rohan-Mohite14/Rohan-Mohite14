@@ -37,9 +37,8 @@
 ---
 
 ## 📬 Connect With Me
-- 🌐 [GitHub](https://github.com/yourusername)  
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)  
-- ✉️ rohan@example.com  
+- 🌐 [GitHub](https://github.com/Rohan-Mohite14)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rohan-mohite-347988284/)  
 
 ---
 ⭐️ _Feel free to explore my repos and reach out for collaborations!_
