@@ -5,11 +5,11 @@
 ---
 
 ## 🔧 Tech Stack
-- **Frontend:** React, React Native, Flutter, Tailwind, ShadCN
+- **Frontend:** React, React Native, Flutter, Tailwind
 - **Backend:** FastAPI, Flask, Node.js
 - **Database:** MongoDB, PostgreSQL
 - **DevOps:** Docker, Docker Compose, Render, Vercel, Ngrok
-- **AI/ML:** LangChain, LangGraph, DeepSeek, CVE/CWE vulnerability mapping
+- **AI/ML:** LangChain, LangGraph, 
 - **Other:** Git, REST APIs, OpenAI API, Agentic AI design
 
 ---
