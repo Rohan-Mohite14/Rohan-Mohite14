@@ -3,7 +3,7 @@
 💻 Software Developer | 🚀 AI & Full-Stack Enthusiast | 🌐 Open Source Contributor  
 
 # 💫 About Me:
-I am interested in building scalable system . Interested in databases and distributed systemns<br>
+I am interested in building scalable system . Interested in databases and distributed systems<br>
 
 
 ## 🌐 Socials:
